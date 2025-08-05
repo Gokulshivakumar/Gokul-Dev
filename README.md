@@ -40,7 +40,7 @@
   <ul>
     <li>✉️ Email: <a href="mailto:yourname@example.com">yourname@example.com</a></li>
     <li>🌐 Portfolio: <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a></li>
-    <li>💼 LinkedIn: <a href="https://linkedin.com/in/yourname" target="_blank">linkedin.com/in/yourname</a></li>
+    <li>💼 LinkedIn: <a href="www.linkedin.com/in/gokul-s-76b59a276" target="_blank">linkedin.com/in/yourname</a></li>
   </ul>
 
   <p>⭐️ Thank you for visiting my GitHub profile!</p>
